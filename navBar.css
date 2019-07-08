@@ -1,0 +1,8 @@
+.navbar {
+  border: 1px dashed black;
+}
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
